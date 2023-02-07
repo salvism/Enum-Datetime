@@ -1,0 +1,14 @@
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.exe
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.deps.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.dev.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.AssemblyReference.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfoInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfo.cs
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.CoreCompileInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework13\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.genruntimeconfig.cache
